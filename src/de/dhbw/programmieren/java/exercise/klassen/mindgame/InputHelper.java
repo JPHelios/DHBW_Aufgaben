@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @author Yannik Schiebelhut
- * @Editor Johannes Peters # 05.02.2021
+ * @editor Johannes Peters # 05.02.2021
  *
  */
 public class InputHelper {
