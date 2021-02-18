@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"de.dhbw.programmieren.java.exercise.documentation"}];updateSearchResults();

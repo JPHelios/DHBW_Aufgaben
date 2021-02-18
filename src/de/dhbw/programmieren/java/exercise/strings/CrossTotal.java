@@ -25,6 +25,11 @@ public class CrossTotal {
 
         System.out.println("Die Quersumme von " + input + " ist " + quersumme);
 
+        //Was auch möglich ist: einfach mit den char Variablen rechnen, indem man einfach den char - '0' rechnet.
+        //Für beide Variablen werden die Unicode Codes eingesetzt und berechnet
+
+        //character.getNumericValue
+
     }
 
 }

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"de.dhbw.programmieren.java.exercise.documentation","l":"Radio"}];updateSearchResults();
