@@ -2,6 +2,14 @@ package de.dhbw.programmieren.java.exercise.inheritage.periodic;
 
 public class Metal extends Element{
 
+    public boolean isMetaliod() {
+        return metaliod;
+    }
+
+    public double getConductivity() {
+        return conductivity;
+    }
+
     boolean metaliod;
     double conductivity;
 
@@ -13,6 +21,7 @@ public class Metal extends Element{
 
 
     }
+
 
     @Override
     public String toString(){

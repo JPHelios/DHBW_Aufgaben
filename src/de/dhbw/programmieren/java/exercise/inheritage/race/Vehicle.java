@@ -32,7 +32,7 @@ public class Vehicle {
     @Override
     public String toString(){
 
-        return this.getClass().getSimpleName() + " at popsition " + position + " km with " + wheels + " at speed " + speed + " km/h of max. " + maxSpeed + " km/h.";
+        return this.getClass().getSimpleName() + " at position " + position + " km with " + wheels + " at speed " + speed + " km/h of max. " + maxSpeed + " km/h.";
     }
 
 

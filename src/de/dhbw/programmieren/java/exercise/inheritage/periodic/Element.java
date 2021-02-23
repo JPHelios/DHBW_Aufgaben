@@ -24,11 +24,16 @@ public class Element {
 
     public String toString(){
         return this.name + "(" + this.symbol + "," + this.ordinal + " Schale: " + this.shell +
-                ", " + phase + ", Gruppe: " + (this.main ? "Hauptgruppe" : "Nebengruppe");
+                ", " + phase + ", Gruppe: " + (this.main ? "Hauptgruppe)" : "Nebengruppe)");
     }
 
-
-
+    @Override
+    public boolean equals(Object o){
+        if (o instanceof Element){
+            Element e = (Element) o;
+            return this.ordinal == e.ordinal;
+        } else return false;
+    }
 
     public String getName() {
         return name;
