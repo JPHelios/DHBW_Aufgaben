@@ -1,0 +1,5 @@
+Tiger;Fred;Predator
+Tiger;Lisa;Predator
+Lion;Simba;Predator
+Nuthatch;Hansi;Songbird
+Backbird;Sina;Songbird

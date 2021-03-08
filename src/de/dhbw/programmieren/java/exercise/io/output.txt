@@ -1,0 +1,2 @@
+Quersumme von 19 ist 10
+Quersumme von 21 ist 3
